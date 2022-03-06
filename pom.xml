@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.lucus.assignment</groupId>
-	<artifactId>sample-springboot-project</artifactId>
+	<artifactId>sample-springboot-project2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sample-springboot-project</name>
+	<name>sample-springboot-project2</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
