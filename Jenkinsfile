@@ -5,8 +5,7 @@ pipeline {
   stages {
     stage("Build") {
        steps {
-          sh "mvn clean verify"
-          sh "ls -ltr"
+          bat "mvn clean verify"
        }
    }
    // And next stages if you want to define further...
